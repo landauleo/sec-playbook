@@ -1,0 +1,15 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: id
+            clientSecret: secret
+          google:
+            client-id: id
+            client-secret: secret
+
+logging:
+  level:
+    rg.springframework.security: INFO
