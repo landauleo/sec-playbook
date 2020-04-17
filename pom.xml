@@ -5,6 +5,7 @@
     <modules>
         <module>click</module>
         <module>simple</module>
+        <module>basic</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
